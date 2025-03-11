@@ -262,10 +262,27 @@ nav img {
     background-color: #f6f4de;
     border: none;
     padding: 20px 30px;
-
+    margin-bottom: 95px;
 }
 .l2{
     margin-top: 80px;
     height: 1px;
     background-color: #f6f4de;
+}
+footer{
+    height: 20px;
+    background-color: #f6f4de;
+}
+.cont1{
+    color: #161616;
+    display: flex;
+    justify-content: space-around;
+}
+.cont1 a{
+    color: #161616;
+}
+
+.cont1 div{
+    padding: 20px;
+    font-size: x-large;
 }
